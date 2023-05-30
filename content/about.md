@@ -5,6 +5,13 @@ aliases = ["about-us"]
 description = "About us"
 +++
 
+We help your business by building products your consumers will love.
+
+We have over 20 years of experience developing software and building robust
+systems.
+
+## Our values
+
 At doudou.tech we believe:
 
 Technology should be used improve our society.
