@@ -5,4 +5,4 @@ aliases = ["contact-us"]
 description = "Contact us"
 +++
 
-For any inquiries send us an email to info @ doudou.tech.
+For any inquiries send us an email to `info @ doudou.tech`.
