@@ -28,7 +28,7 @@ We understand resources are limited and we must make efficient use of them.
 We can help small businesses that lack experience to make the right
 technological decisions.
 
-We can design strategic plands, validate new ideas, build prototypes and do
+We can design strategic plans, validate new ideas, build prototypes and do
 feasibility studies, find the right vendors, etc.
 
 ### Product Building
