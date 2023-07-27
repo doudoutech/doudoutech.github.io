@@ -4,6 +4,15 @@ title = 'doudou.tech'
 theme        = "hello-friend-ng"
 paginate     = 10
 
+[Author]
+name = "DoudouTech SL"
+
+[params.footer]
+    trademark = true
+    author = true
+    topText = ['<a href="/privacy">Privacy</a>']
+
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -17,7 +26,7 @@ paginate     = 10
   disableReadOtherPosts = false
 
   # Enable sharing buttons, if you like
-  enableSharingButtons = true
+  enableSharingButtons = false
 
   # Show a global language switcher in the navigation bar
   enableGlobalLanguageMenu = false
@@ -37,7 +46,6 @@ paginate     = 10
   [languages.en]
     title = "Technology with a human touch"
     keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
